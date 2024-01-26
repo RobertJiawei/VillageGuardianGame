@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Srcipts/CameraController.cs">
+    <Files>
+      <File FileName="Assets/Srcipts/PlayerController.cs" Line="176" Column="91" />
+      <File FileName="Assets/Srcipts/CursorManagement.cs" Line="22" Column="57" />
+      <File FileName="Assets/Srcipts/CameraController.cs" Line="7" Column="59" />
+      <File FileName="Assets/Srcipts/PlayerAttack.cs" Line="15" Column="81" />
+      <File FileName="Assets/Srcipts/EnemyManagement.cs" Line="14" Column="35" NotebookId="1" />
+      <File FileName="Assets/Srcipts/EnemyAttack.cs" Line="24" Column="1" NotebookId="1" />
+      <File FileName="Assets/Srcipts/Heal.cs" Line="42" Column="70" NotebookId="1" />
+      <File FileName="Assets/Srcipts/MenuManagement.cs" Line="28" Column="57" NotebookId="1" />
+      <File FileName="Assets/PauseMenu.cs" Line="26" Column="17" NotebookId="1" />
+      <File FileName="Assets/Srcipts/SoundManagement.cs" Line="27" Column="16" NotebookId="1" />
+      <File FileName="Assets/GameManagement.cs" Line="21" Column="52" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="90b7133c-bc76-4fde-a74c-a0524fbbde37" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
